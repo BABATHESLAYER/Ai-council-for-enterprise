@@ -1,0 +1,113 @@
+{
+  "session_id": "078ec9b2-ad3b-4afa-b7a1-ef485cb7da75",
+  "started_at": "2026-05-26T18:00:50.877998Z",
+  "generated_at": "2026-05-26T18:02:01.180033Z",
+  "events": [
+    {
+      "timestamp": "2026-05-26T18:00:50.878013Z",
+      "type": "session_request",
+      "payload": {
+        "case": "UNICRAZE: The Ground-Up Brand \nPlaybook  \nDivision: MM&C (Marketing, Media & Communications) \nVibe: Build in Public. Start Sma l. Scale Smart. \nListen, marketing isn\u2019t a 30-day magic trick. You can\u2019t just run a campaign for one month and \nexpect a cult folowing. We are building a brand from scratch, figuring out our voice, and \nbringing people along for the ride. We don\u2019t need a massive, noisy launch. We need a subtle \nentry, high-quality aesthetics, and a \"building in public\" narrative. \nHere is exactly how we are going to execute this over the next 3-6 months. (DEPENDING ON \nTHE NEXT MOVES AND PRODUCT) \n1. The Bare Minimum (What we need from the \nFounders) \nWe don't need a 50-page thesis or endless resources right now. We just need the keys to the \ncar so we can start driving. \n\u25cf The \"Why\" & The Story: Just a quick brain-dump from you guys. Why did you start this? \nWhat's the one problem that makes you angry enough to build Unicraze? (We wil use this \nfor our storyte ling). \n\u25cf Basic Assets & Access: Current logos (even if they are drafts), brand colors you like, and \nadmin access to whatever social pages or domains we currently own. \n\u25cf A Tiny Tool Budget: Just the absolute basics to pay for a couple of SaaS tools (listed \nbelow) so we can automate our lives and focus on creating, not doing manual data entry. \n2. The Masterplan (What we will do for Unicraze) \nWe are treating Unicraze like a creator-led brand. People connect with people and processes, \nnot just websites. \nPhase 1: The Vibe Check & Foundation (Month 1) \nWe aren't launching yet. We are building the engine. \n\u25cf The Mood Board: We wil build a visual mood board. Are we sleek and techy? Are we edgy \nand student-focused? We wil lock down the exact visual vibe. \n\u25cf Template Factory: Designing plug-and-play templates for Instagram, LinkedIn, and \nTwitter. When we need to post an update, an event, or a meme, we shouldn't be designing \nfrom scratch. \n\u25cf \"Building in Public\" Content: We start documenting the journey. \"Hey, we are building \nUnicraze for students. Here\u2019s what the website looks like today. Here is what we messed \nup.\" People love raw, behind-the-scenes content. \nPhase 2: The Subtle Soft Launch (Month 2) \nNo big fireworks. Just sliding into the DMs of the internet. \n\u25cf The 100 True Fans Strategy: We quietly invite a smal, curated group of students and club \nheads to the platform. We treat them like VIPs. (SOCH NA HOGA FOR THIS) \n\u25cf Feedback Loop: We use this month to gather testimonials, fix broken links, and see how \nusers actua ly use the site. \n\u25cf Content Shift: Our social media shifts from \"we are building this\" to \"look at what these \nearly users are doing with this.\" (THIS FS) \nPhase 3: The Distribution Engine (Month 3) \nNow that the foundation is set and the brand looks premium, we turn up the volume. \n\u25cf Automated Content Pipeline: Pushing out educational content, student memes, and \nplatform highlights consistently. \n\u25cf Micro-Collaborations: Partnering with smal campus influencers or specific colege clubs \nfor shoutouts. \n\u25cf Community Flywheel: Encouraging our early users to invite their friends because the \nproduct actualy looks good and works wel. \n3. The Tech Stack (The \"Work Smart\" Tools) \nTo build a modern brand without a 20-person team, we need the right stack. Here is what we \nare using to automate the grunt work. \nA. Design & Branding \n\u25cf Canva Pro (highly recommended): The bread and butter. We wil use this to house our \nBrand Kit (logos, fonts, colors) and create a l those reusable design templates. \n\u25cf Figma (Free+ STUDENT ID): For building the actual Mood Board and colaborating on \nhigh-fidelity web design tweaks or complex graphics. \n\u25cf Pinterest: For gathering inspiration, UI/UX ideas, and aesthetic references for the mood \nboard. \nB. Social Media Automation \nBecause posting manualy at 6 PM every day is a waste of time. (UNTIL UK HOW HARD IT IS) \n\u25cf Metricool or Buffer (Freemium): We wil batch-create content on weekends and use \nthese tools to auto-post across Instagram, LinkedIn, and Twitter a l week long. It also gives \nus basic analytics on what\u2019s working. \nC. Community, CRM & Workspace (Cloud/Open Source) \n\u25cf Notion (Free for startups/students): Our entire brain. We wil use it for the content \ncalendar, storing the brand playbook, meeting notes, and task tracking. \n\u25cf Odoo or ERPNext (Open Source): If we need a serious, free/low-cost CRM to track B2B \nleads (like brands or co leges we are pitching), these are powerful open-source ERP \nsystems. Note: We wil only set this up when we actualy have too many leads to track in \nNotion. (ODOO IS SHIT NOW BTW )"
+      }
+    },
+    {
+      "timestamp": "2026-05-26T18:01:04.946547Z",
+      "type": "agent_prediction",
+      "payload": {
+        "agent": "strategic_growth",
+        "decision": "CONDITIONAL_APPROVE",
+        "risk_score": 0.4515,
+        "confidence": 0.5985
+      }
+    },
+    {
+      "timestamp": "2026-05-26T18:01:19.030248Z",
+      "type": "agent_prediction",
+      "payload": {
+        "agent": "financial_stability",
+        "decision": "CONDITIONAL_APPROVE",
+        "risk_score": 0.3972,
+        "confidence": 0.5472
+      }
+    },
+    {
+      "timestamp": "2026-05-26T18:01:33.063412Z",
+      "type": "agent_prediction",
+      "payload": {
+        "agent": "market_expansion",
+        "decision": "CONDITIONAL_APPROVE",
+        "risk_score": 0.4382,
+        "confidence": 0.6618
+      }
+    },
+    {
+      "timestamp": "2026-05-26T18:01:47.110812Z",
+      "type": "agent_prediction",
+      "payload": {
+        "agent": "reputation_risk",
+        "decision": "APPROVE",
+        "risk_score": 0.3093,
+        "confidence": 0.6407
+      }
+    },
+    {
+      "timestamp": "2026-05-26T18:02:01.178624Z",
+      "type": "agent_prediction",
+      "payload": {
+        "agent": "regulatory_compliance",
+        "decision": "APPROVE",
+        "risk_score": 0.1966,
+        "confidence": 0.6034
+      }
+    },
+    {
+      "timestamp": "2026-05-26T18:02:01.179380Z",
+      "type": "session_end",
+      "payload": {
+        "session_id": "078ec9b2-ad3b-4afa-b7a1-ef485cb7da75",
+        "case": "UNICRAZE: The Ground-Up Brand \nPlaybook  \nDivision: MM&C (Marketing, Media & Communications) \nVibe: Build in Public. Start Sma l. Scale Smart. \nListen, marketing isn\u2019t a 30-day magic trick. You can\u2019t just run a campaign for one month and \nexpect a cult folowing. We are building a brand from scratch, figuring out our voice, and \nbringing people along for the ride. We don\u2019t need a massive, noisy launch. We need a subtle \nentry, high-quality aesthetics, and a \"building in public\" narrative. \nHere is exactly how we are going to execute this over the next 3-6 months. (DEPENDING ON \nTHE NEXT MOVES AND PRODUCT) \n1. The Bare Minimum (What we need from the \nFounders) \nWe don't need a 50-page thesis or endless resources right now. We just need the keys to the \ncar so we can start driving. \n\u25cf The \"Why\" & The Story: Just a quick brain-dump from you guys. Why did you start this? \nWhat's the one problem that makes you angry enough to build Unicraze? (We wil use this \nfor our storyte ling). \n\u25cf Basic Assets & Access: Current logos (even if they are drafts), brand colors you like, and \nadmin access to whatever social pages or domains we currently own. \n\u25cf A Tiny Tool Budget: Just the absolute basics to pay for a couple of SaaS tools (listed \nbelow) so we can automate our lives and focus on creating, not doing manual data entry. \n2. The Masterplan (What we will do for Unicraze) \nWe are treating Unicraze like a creator-led brand. People connect with people and processes, \nnot just websites. \nPhase 1: The Vibe Check & Foundation (Month 1) \nWe aren't launching yet. We are building the engine. \n\u25cf The Mood Board: We wil build a visual mood board. Are we sleek and techy? Are we edgy \nand student-focused? We wil lock down the exact visual vibe. \n\u25cf Template Factory: Designing plug-and-play templates for Instagram, LinkedIn, and \nTwitter. When we need to post an update, an event, or a meme, we shouldn't be designing \nfrom scratch. \n\u25cf \"Building in Public\" Content: We start documenting the journey. \"Hey, we are building \nUnicraze for students. Here\u2019s what the website looks like today. Here is what we messed \nup.\" People love raw, behind-the-scenes content. \nPhase 2: The Subtle Soft Launch (Month 2) \nNo big fireworks. Just sliding into the DMs of the internet. \n\u25cf The 100 True Fans Strategy: We quietly invite a smal, curated group of students and club \nheads to the platform. We treat them like VIPs. (SOCH NA HOGA FOR THIS) \n\u25cf Feedback Loop: We use this month to gather testimonials, fix broken links, and see how \nusers actua ly use the site. \n\u25cf Content Shift: Our social media shifts from \"we are building this\" to \"look at what these \nearly users are doing with this.\" (THIS FS) \nPhase 3: The Distribution Engine (Month 3) \nNow that the foundation is set and the brand looks premium, we turn up the volume. \n\u25cf Automated Content Pipeline: Pushing out educational content, student memes, and \nplatform highlights consistently. \n\u25cf Micro-Collaborations: Partnering with smal campus influencers or specific colege clubs \nfor shoutouts. \n\u25cf Community Flywheel: Encouraging our early users to invite their friends because the \nproduct actualy looks good and works wel. \n3. The Tech Stack (The \"Work Smart\" Tools) \nTo build a modern brand without a 20-person team, we need the right stack. Here is what we \nare using to automate the grunt work. \nA. Design & Branding \n\u25cf Canva Pro (highly recommended): The bread and butter. We wil use this to house our \nBrand Kit (logos, fonts, colors) and create a l those reusable design templates. \n\u25cf Figma (Free+ STUDENT ID): For building the actual Mood Board and colaborating on \nhigh-fidelity web design tweaks or complex graphics. \n\u25cf Pinterest: For gathering inspiration, UI/UX ideas, and aesthetic references for the mood \nboard. \nB. Social Media Automation \nBecause posting manualy at 6 PM every day is a waste of time. (UNTIL UK HOW HARD IT IS) \n\u25cf Metricool or Buffer (Freemium): We wil batch-create content on weekends and use \nthese tools to auto-post across Instagram, LinkedIn, and Twitter a l week long. It also gives \nus basic analytics on what\u2019s working. \nC. Community, CRM & Workspace (Cloud/Open Source) \n\u25cf Notion (Free for startups/students): Our entire brain. We wil use it for the content \ncalendar, storing the brand playbook, meeting notes, and task tracking. \n\u25cf Odoo or ERPNext (Open Source): If we need a serious, free/low-cost CRM to track B2B \nleads (like brands or co leges we are pitching), these are powerful open-source ERP \nsystems. Note: We wil only set this up when we actualy have too many leads to track in \nNotion. (ODOO IS SHIT NOW BTW )",
+        "verdict": "APPROVE",
+        "aggregate_risk_score": 0.3069,
+        "council_confidence": 0.6041,
+        "vote_breakdown": {
+          "strategic_growth": {
+            "decision": "CONDITIONAL_APPROVE",
+            "risk_score": 0.4515,
+            "credibility": 1.0,
+            "weight": 0.2,
+            "confidence": 0.5985
+          },
+          "financial_stability": {
+            "decision": "CONDITIONAL_APPROVE",
+            "risk_score": 0.3972,
+            "credibility": 1.0,
+            "weight": 0.2,
+            "confidence": 0.5472
+          },
+          "market_expansion": {
+            "decision": "CONDITIONAL_APPROVE",
+            "risk_score": 0.4382,
+            "credibility": 1.0,
+            "weight": 0.2,
+            "confidence": 0.6618
+          },
+          "reputation_risk": {
+            "decision": "APPROVE",
+            "risk_score": 0.3093,
+            "credibility": 1.0,
+            "weight": 0.2,
+            "confidence": 0.6407
+          },
+          "regulatory_compliance": {
+            "decision": "APPROVE",
+            "risk_score": 0.1966,
+            "credibility": 1.0,
+            "weight": 0.2,
+            "confidence": 0.6034
+          }
+        },
+        "quorum_size": 5
+      }
+    }
+  ]
+}

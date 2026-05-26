@@ -1,0 +1,42 @@
+model:
+  base:
+    type: gradient_boosting
+    library: xgboost
+    hyperparameters:
+      n_estimators: 200
+      max_depth: 6
+      learning_rate: 0.05
+      subsample: 0.8
+      colsample_bytree: 0.8
+
+  training:
+    test_split: 0.2
+    cv_folds: 5
+    early_stopping_rounds: 20
+    random_state: 42
+
+# Local LLM configuration (Ollama)
+llm:
+  provider: ollama
+  base_url: http://localhost:11434
+  timeout_seconds: 300  # Increased from 60 for large reasoning models
+  max_retries: 2
+  max_tokens: 300
+  temperature: 0.35
+
+  # Available locally hosted models
+  models:
+    - name: llama3
+      tag: llama3:8b
+      use_for: [ceo, pr, cfo, marketing, legal]
+    - name: phi
+      tag: phi3:mini
+      use_for: [fallback]
+
+  # Role → model assignment
+  role_model_map:
+    strategic_growth:     llama3
+    financial_stability:  llama3
+    market_expansion:     llama3
+    reputation_risk:      phi3
+    regulatory_compliance: llama3

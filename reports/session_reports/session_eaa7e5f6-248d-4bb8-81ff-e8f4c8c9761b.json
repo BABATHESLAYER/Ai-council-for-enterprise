@@ -1,0 +1,113 @@
+{
+  "session_id": "eaa7e5f6-248d-4bb8-81ff-e8f4c8c9761b",
+  "started_at": "2026-05-26T17:50:27.544659Z",
+  "generated_at": "2026-05-26T17:52:00.150889Z",
+  "events": [
+    {
+      "timestamp": "2026-05-26T17:50:27.578468Z",
+      "type": "session_request",
+      "payload": {
+        "case": "Quick local test: approve unsecured loan for fast-growth retailer?"
+      }
+    },
+    {
+      "timestamp": "2026-05-26T17:51:03.867142Z",
+      "type": "agent_prediction",
+      "payload": {
+        "agent": "strategic_growth",
+        "decision": "APPROVE",
+        "risk_score": 0.3795,
+        "confidence": 0.6705
+      }
+    },
+    {
+      "timestamp": "2026-05-26T17:51:17.915062Z",
+      "type": "agent_prediction",
+      "payload": {
+        "agent": "financial_stability",
+        "decision": "CONDITIONAL_APPROVE",
+        "risk_score": 0.3214,
+        "confidence": 0.5286
+      }
+    },
+    {
+      "timestamp": "2026-05-26T17:51:31.986524Z",
+      "type": "agent_prediction",
+      "payload": {
+        "agent": "market_expansion",
+        "decision": "APPROVE",
+        "risk_score": 0.34,
+        "confidence": 0.76
+      }
+    },
+    {
+      "timestamp": "2026-05-26T17:51:46.073760Z",
+      "type": "agent_prediction",
+      "payload": {
+        "agent": "reputation_risk",
+        "decision": "CONDITIONAL_APPROVE",
+        "risk_score": 0.4202,
+        "confidence": 0.5298
+      }
+    },
+    {
+      "timestamp": "2026-05-26T17:52:00.149284Z",
+      "type": "agent_prediction",
+      "payload": {
+        "agent": "regulatory_compliance",
+        "decision": "CONDITIONAL_APPROVE",
+        "risk_score": 0.229,
+        "confidence": 0.571
+      }
+    },
+    {
+      "timestamp": "2026-05-26T17:52:00.150046Z",
+      "type": "session_end",
+      "payload": {
+        "session_id": "eaa7e5f6-248d-4bb8-81ff-e8f4c8c9761b",
+        "case": "Quick local test: approve unsecured loan for fast-growth retailer?",
+        "verdict": "APPROVE",
+        "aggregate_risk_score": 0.2764,
+        "council_confidence": 0.6048,
+        "vote_breakdown": {
+          "strategic_growth": {
+            "decision": "APPROVE",
+            "risk_score": 0.3795,
+            "credibility": 1.0,
+            "weight": 0.2,
+            "confidence": 0.6705
+          },
+          "financial_stability": {
+            "decision": "CONDITIONAL_APPROVE",
+            "risk_score": 0.3214,
+            "credibility": 1.0,
+            "weight": 0.2,
+            "confidence": 0.5286
+          },
+          "market_expansion": {
+            "decision": "APPROVE",
+            "risk_score": 0.34,
+            "credibility": 1.0,
+            "weight": 0.2,
+            "confidence": 0.76
+          },
+          "reputation_risk": {
+            "decision": "CONDITIONAL_APPROVE",
+            "risk_score": 0.4202,
+            "credibility": 1.0,
+            "weight": 0.2,
+            "confidence": 0.5298
+          },
+          "regulatory_compliance": {
+            "decision": "CONDITIONAL_APPROVE",
+            "risk_score": 0.229,
+            "credibility": 1.0,
+            "weight": 0.2,
+            "confidence": 0.571
+          }
+        },
+        "quorum_size": 5
+      }
+    }
+  ]
+}
